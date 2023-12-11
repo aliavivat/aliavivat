@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**aliavivat/aliavivat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Alia, a seasoned voyager in the vast seas of data. With a robust background in high-altitude customer service as an International Flight Attendant and an insatiable appetite for unraveling data mysteries, I've navigated the skies and the spreadsheets with equal gusto.
 
-Here are some ideas to get you started:
+## 🛠️ Toolbelt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Tools:
+- **Programming:** R, Python, Ruby on Rails, HTML, CSS, JavaScript
+- **Data Magic:** SQL, Excel/VBA, Tableau, Power BI
+- **Version Control:** Git & GitHub
+
+## 🗣️ Lingua Franca
+- Fluent in English
+- Native in Russian
+- Conversational in Turkish
